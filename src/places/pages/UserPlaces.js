@@ -19,7 +19,7 @@ const DUMMY_PLACES = [
   },
   {
     id: "p2",
-    title: "Empire State",
+    title: "Emp. State",
     description: "Most famous sky scrapper",
     imageUrl:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR804X_2KaNbiBsTEGA-6Kdcs06TAlVYuw2dQ&usqp=CAU",
